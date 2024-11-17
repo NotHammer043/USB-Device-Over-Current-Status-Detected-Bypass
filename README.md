@@ -16,7 +16,7 @@
 ![image](https://github.com/user-attachments/assets/f09d91ea-d121-40a9-aae0-8acc8cecf23f)
 - *Alternatively, you can dump your BIOS using your programmer.*
 
-## Step 2: Extract the `ASUSPostMessage` Module
+## Step 2: Extracting `ASUSPostMessage` Module
 - Open the firmware in UEFITool.
 - Use the search function *(CTRL + F)*, set it to text, and look for `USB Device`.
 - Select the last occurrence and extract the body (in this case, at offset 63D0h).
