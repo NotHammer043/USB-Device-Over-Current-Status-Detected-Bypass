@@ -11,6 +11,9 @@
 - IDA Professional 9.0
 - CH341a Programmer + Neo Programmer V2.2.0.10
 
+## Demo
+[![YouTube](http://i.ytimg.com/vi/EenhqBOEuzY/hqdefault.jpg)](https://www.youtube.com/watch?v=EenhqBOEuzY)
+
 ## Step 1: Obtain the Firmware
 - You can get the capsule file from ASUS's Website
 ![image](https://github.com/user-attachments/assets/f09d91ea-d121-40a9-aae0-8acc8cecf23f)
