@@ -22,7 +22,7 @@
 - Select the last occurrence and extract the body (in this case, at offset 63D0h).
 ![image](https://github.com/user-attachments/assets/e3ec1ebb-9e10-41e9-be47-86e56c3c6272)
 
-## Step 3: Modify the Code to Bypass the Check
+## Step 3: Bypassing
 - Open the extracted `ASUSPostMessage` file in IDA.
 - Navigate to Text View.
 - Scroll to the top and search *(CTRL + F)* for `USB Device` until you find the graph view for `USB Device Over Current Status Detected`.
