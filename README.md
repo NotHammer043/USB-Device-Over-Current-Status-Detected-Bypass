@@ -26,7 +26,7 @@
 - Open the extracted `ASUSPostMessage` file in IDA.
 - Navigate to Text View.
 - Scroll to the top and search *(CTRL + F)* for `USB Device` until you find the graph view for `USB Device Over Current Status Detected`.
-- Locate the parent block connected to `loc_1EEE` (marked by a green line).
+- Locate the parent block connected to `loc_1EEE` (marked by green line from image).
 ![image](https://github.com/user-attachments/assets/b5d282f3-cc67-4509-b6ed-bfc641ead499)
 - Highlight the `jz` instruction and go to `Edit > Patch Program > Assemble`.
 - Replace the `jz xxx_xxxx` instruction with `nop`.
