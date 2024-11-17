@@ -12,9 +12,9 @@
 - CH341a Programmer + Neo Programmer V2.2.0.10
 
 ## Step 1: Obtain the Firmware
-- You can get the capsule file from ASUS
-- *Alternatively, you can dump your BIOS using your programmer.*
+- You can get the capsule file from ASUS's Website
 ![image](https://github.com/user-attachments/assets/f09d91ea-d121-40a9-aae0-8acc8cecf23f)
+- *Alternatively, you can dump your BIOS using your programmer.*
 
 ## Step 2: Extract the `ASUSPostMessage` Module
 - Open the firmware in UEFITool.
